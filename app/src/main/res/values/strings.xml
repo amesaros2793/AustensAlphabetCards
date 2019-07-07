@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Austen\'s Alphabet Cards</string>
+    <string name="select_language_label">Select a Language</string>
+    <string name="placeholder_symbol">☺</string>
+    <string name="enter_label">Enter Answer</string>
+    <string name="submit_label">Check Answer</string>
+    <string name="alphabet_name_label">Katakana</string>
+    <string name="katakana_label">Katakana</string>
+    <string name="hiragana_label">Hiragana</string>
+    <string name="begin_label">Begin</string>
+    <string name="japanese_language_label">Japanese</string>
+</resources>
